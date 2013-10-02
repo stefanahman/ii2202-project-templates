@@ -1,4 +1,4 @@
-ii2202_project_templates
+II2202 Project templates
 ========================
 
 LaTeX project templates to the course II2202
